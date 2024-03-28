@@ -1,4 +1,4 @@
-# :🧩:Puzzle counter app :🧩:
+# 🧩 Puzzle counter app 🧩
 
 # Presentation
 
@@ -11,7 +11,7 @@ With the increase and decrease buttons it is possible to add or remove each piec
 - CSS3
 - JAVASCRIPT
 
-## :🖼️:Try it!
+## 🖼️ Try it!
 
 You can try the puzzle by clicking on this link [Puzzle counter](https://puzzlecounter.netlify.app/).
 
