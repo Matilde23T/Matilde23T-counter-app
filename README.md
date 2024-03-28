@@ -1,6 +1,6 @@
-# Puzzle counter app
+# :🧩:Puzzle counter app :🧩:
 
-#  Presentation
+# Presentation
 
 The project presented is a puzzle that is completed thanks to the use of a counter function.
 With the increase and decrease buttons it is possible to add or remove each piece of the puzzle in order to show the entire figure.
@@ -11,9 +11,9 @@ With the increase and decrease buttons it is possible to add or remove each piec
 - CSS3
 - JAVASCRIPT
 
-## Try it!
+## :🖼️:Try it!
 
-You can try the puzzle by clicking on this link
+You can try the puzzle by clicking on this link [Puzzle counter](https://puzzlecounter.netlify.app/).
 
 ## Contact me 
 
