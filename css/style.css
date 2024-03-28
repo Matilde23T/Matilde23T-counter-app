@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #0c67ae;
+    background-color: #4a80aa;
+}
+
+h1{
+    font-size: 40px;
+    font-family: "Oleo Script Swash Caps";
+    color: #08375b;
+}
+
+#board {
+    width: 360px;
+    height: 360px;
+    background-color: lightblue;
+    border: 10px solid #08375b;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#board img {
+    width: 118px;
+    height: 118px;
+    border: 1px solid #0c67ae;
+}
+
+
+#counterboard{
+    margin-top: 40px;
+}
+#counterLabel{
+    font-size: 50px;
+    color: #08375b;
+}
+
+button{
+    font-size: 25px;
+    padding: 10px 25px;
+    border-radius: 10px;
+    border-color: black;
+    margin-top: 20px;
+    margin-right: 10px;
+}
